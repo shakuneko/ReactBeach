@@ -1,0 +1,14 @@
+[
+    {
+       "id": 1,
+       "title": "澎湖",
+       "activity": "獨木舟",
+       "image":"../../public/image/Mask1.png"
+    },
+    {
+       "id": 2,
+       "title": "小琉球",
+       "activity": "浮潛",
+       "image":"../../public/image/Mask2.png"
+    }
+ ]

@@ -1,0 +1,26 @@
+[
+    {
+      "id": "1",
+      "category": "澎湖",
+      "name": "SUP 立槳衝浪",
+      "cover": "https://i.imgur.com/cZ7ycXZ.jpg"
+    },
+    {
+        "id": "2",
+        "category": "小琉球",
+        "name": "透明獨木舟",
+        "cover": "https://i.imgur.com/908x670.png"
+    },
+    {
+        "id": "3",
+        "category": "小琉球",
+        "name": "三體帆船",
+        "cover": "https://i.imgur.com/RJvOsOW.png"
+    },
+    {
+        "id": "4",
+        "category": "蘭嶼",
+        "name": "划拼板舟",
+        "cover": "https://i.imgur.com/t5tIImr.png"
+    }
+  ]

@@ -1,0 +1,24 @@
+[
+    {
+      "id": "5",
+      "category": "衝浪",
+      "name": "衝浪板",
+      "price": 500,
+      "image": "https://i.imgur.com/PriaFHr.png"
+  
+    },
+    {
+      "id": "6",
+      "category": "衝浪",
+      "name": "趴板",
+      "price": 200,
+      "image": "https://i.imgur.com/T4btdgY.jpg"
+    },
+    {
+      "id": "7",
+      "category": "衝浪",
+      "name": "防磨衣",
+      "price": 100,
+      "image": "https://i.imgur.com/oRXDTkN.png"
+    }
+  ]

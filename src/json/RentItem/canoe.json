@@ -1,0 +1,23 @@
+[
+    { 
+      "id": "1",
+      "category": "獨木舟",
+      "name": "單人獨木舟",
+      "price": 150,
+      "image": "https://i.imgur.com/8u7bBfN.png"
+    },
+    {
+      "id": "2",
+      "category": "獨木舟",
+      "name": "雙人獨木舟",
+      "price": 200,
+      "image": "https://i.imgur.com/jdNECde.png"
+    },
+    {
+      "id": "3",
+      "category": "獨木舟",
+      "name": "透明獨木舟",
+      "price": 350,
+      "image": "https://i.imgur.com/1AJT2at.jpg"
+    }
+]

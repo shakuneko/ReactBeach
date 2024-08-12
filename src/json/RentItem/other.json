@@ -1,0 +1,16 @@
+[
+    {
+        "id": "11",
+        "category": "其他",
+        "name": "防水袋",
+        "price": 80,
+        "image": "https://i.imgur.com/980kScH.png"
+    },
+    {
+      "id": "14",
+      "category": "其他",
+      "name": "防寒衣",
+      "price": 150,
+      "image": "https://i.imgur.com/u49hZe5.png"
+    }
+]

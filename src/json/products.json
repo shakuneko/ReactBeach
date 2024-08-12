@@ -1,0 +1,142 @@
+[
+    { 
+      "id": "1",
+      "rentcategory": "獨木舟",
+      "rentname": "單人獨木舟",
+      "rentprice": 150,
+      "rentcount":10,
+      "adultqtycount":5,
+      "kidqtycount":5,
+      "rentCardimg": "https://i.imgur.com/8u7bBfN.png",
+      "rentimgURL": "https://imgur.com/oFNf40v.png",
+      "rentpic1":"https://imgur.com/EVtjzmh.png",
+      "rentpic2":"https://imgur.com/pMwjNQV.png",
+      "rentpic3":"https://imgur.com/SJkxWF3.png",
+      "rentintro1":"Malibu Two提供了足夠的空間規劃，有三個座位空間和腳蹬設計，供1、2或3",
+      "rentintro2": "位划船者使用。具有良好的全方位性能和高穩定性。",
+      "rentintro3": "單人舟使用時坐在中央位置，有中央位置的腳蹬設計。",
+      "rentintro4":  "Malibu Two有很好的衝浪性能，是良好的水上救援平台。",
+      "rentintro5":  "輕量化，左右側硬式握把，易抓舉。",
+      "rentintro6":  "很棒的家庭獨木舟。",
+      "rentintro7":  "尺寸: 370 cm x 87 cm 重量: 28kg, 載重: 192.8kg舒適靠背椅墊 / 美國Carlisle划槳。",
+      "teachintro1":"一定要會游泳才能划獨木舟嗎？是的。除非您是在確定可以摸到底的水裡划，",
+      "teachintro2":"否則會游泳是很重要的，才能處理突發狀況。",
+      "teachintro3": "划獨木舟時一定要穿救生衣！不穿就划是絕對不被允許的（即使是狗狗都要穿",
+      "teachintro4": "救生背心！）",
+      "teachintro5": "如果是艷陽天的話，記得擦防曬乳。",
+      "teachintro6": "酒後不划船。",
+      "teachintro7": "穿符合水溫的衣服，且帶著額外的衣物，以免天氣變冷。",
+      "teachintro8": "絕對不要自己一個人划",
+      "teachintro9": "選個寧靜的海灣、平和的湖泊，或流水不湍急的河。",
+      "teachintro10": "只在您有信心可以在裡面游泳的水況中划船。",
+      "teachintro11": "在進入深水區划獨木舟前，先練習怎麼讓船入水。如果您沒辦法自在地重新讓",
+      "teachintro12":"船入水，那就盡可能地離岸邊近一點，這樣如果需要的話，還可以游回來。"
+    
+    },
+    {
+      "id": "2",
+      "rentcategory": "獨木舟",
+      "rentname": "雙人獨木舟",
+      "rentprice": 200,
+      "rentcount":10,
+      "adultqtycount":5,
+      "kidqtycount":5,
+      "rentCardimg": "https://i.imgur.com/jdNECde.png",
+      "rentimgURL": "https://imgur.com/oFNf40v.png",
+      "rentpic1":"https://imgur.com/EVtjzmh.png",
+      "rentpic2":"https://imgur.com/pMwjNQV.png",
+      "rentpic3":"https://imgur.com/SJkxWF3.png",
+      "rentintro1":"Malibu Two提供了足夠的空間規劃，有三個座位空間和腳蹬設計，供1、2或3",
+      "rentintro2": "位划船者使用。具有良好的全方位性能和高穩定性。",
+      "rentintro3": "單人舟使用時坐在中央位置，有中央位置的腳蹬設計。",
+      "rentintro4":  "Malibu Two有很好的衝浪性能，是良好的水上救援平台。",
+      "rentintro5":  "輕量化，左右側硬式握把，易抓舉。",
+      "rentintro6":  "很棒的家庭獨木舟。",
+      "rentintro7":  "尺寸: 370 cm x 87 cm 重量: 28kg, 載重: 192.8kg舒適靠背椅墊 / 美國Carlisle划槳。",
+      "teachintro1":"一定要會游泳才能划獨木舟嗎？是的。除非您是在確定可以摸到底的水裡划，",
+      "teachintro2":"否則會游泳是很重要的，才能處理突發狀況。",
+      "teachintro3": "划獨木舟時一定要穿救生衣！不穿就划是絕對不被允許的（即使是狗狗都要穿",
+      "teachintro4": "救生背心！）",
+      "teachintro5": "如果是艷陽天的話，記得擦防曬乳。",
+      "teachintro6": "酒後不划船。",
+      "teachintro7": "穿符合水溫的衣服，且帶著額外的衣物，以免天氣變冷。",
+      "teachintro8": "絕對不要自己一個人划",
+      "teachintro9": "選個寧靜的海灣、平和的湖泊，或流水不湍急的河。",
+      "teachintro10": "只在您有信心可以在裡面游泳的水況中划船。",
+      "teachintro11": "在進入深水區划獨木舟前，先練習怎麼讓船入水。如果您沒辦法自在地重新讓",
+      "teachintro12":"船入水，那就盡可能地離岸邊近一點，這樣如果需要的話，還可以游回來。"
+     
+    
+    },
+    {
+      "id": "3",
+      "rentcategory": "獨木舟",
+      "rentname": "透明獨木舟",
+      "rentprice": 350,
+      "rentCardimg": "https://i.imgur.com/1AJT2at.jpg"
+    },
+    {
+      "id": "4",
+      "rentcategory": "SUP立槳",
+      "rentname": "直立板",
+      "rentprice": 200,
+      "rentCardimg": "https://i.imgur.com/5flKizp.png"
+    },
+    {
+      "id": "5",
+      "rentcategory": "衝浪",
+      "rentname": "衝浪板",
+      "rentprice": 500,
+      "rentCardimg": "https://i.imgur.com/PriaFHr.png"
+  
+    },
+    {
+      "id": "6",
+      "rentcategory": "衝浪",
+      "rentname": "趴板",
+      "rentprice": 200,
+      "rentCardimg": "https://i.imgur.com/T4btdgY.jpg"
+    },
+    {
+      "id": "7",
+      "rentcategory": "衝浪",
+      "rentname": "防磨衣",
+      "rentprice": 100,
+      "rentCardimg": "https://i.imgur.com/oRXDTkN.png"
+    },
+    {
+      "id": "8",
+      "rentcategory": "浮潛/深潛",
+      "rentname": "潛水套裝（深淺)",
+      "rentprice": 500,
+      "rentCardimg": "https://i.imgur.com/hz7vlwz.png"
+    },  
+    {
+      "id": "9",
+      "rentcategory": "浮潛/深潛",
+      "rentname": "蛙鞋",
+      "rentprice": 150,
+      "rentCardimg": "https://i.imgur.com/nIEOuKc.png"
+    },
+    {
+      "id": "10",
+      "rentcategory": "浮潛/深潛",
+      "rentname": "面鏡+呼吸管",
+      "rentprice": 100,
+      "rentCardimg": "https://i.imgur.com/RVJsgRB.png"
+    },  
+    {
+      "id": "11",
+      "rentcategory": "其他",
+      "rentname": "防水袋",
+      "rentprice": 80,
+      "rentCardimg": "https://i.imgur.com/980kScH.png"
+    },
+    {
+      "id": "12",
+      "rentcategory": "活動套組",
+      "rentname": "水上活動八合一",
+      "rentprice": 600,
+      "rentCardimg": "https://i.imgur.com/8oLd7ve.png"
+    }
+  ]

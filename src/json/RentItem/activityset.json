@@ -1,0 +1,16 @@
+[
+    {
+    "id": "12",
+    "category": "活動套組",
+    "name": "水上活動八合一",
+    "price": 600,
+    "image": "https://i.imgur.com/8oLd7ve.png"
+    },
+    {
+        "id": "15",
+        "category": "活動套組",
+        "name": "水上活動六合一",
+        "price": 450,
+        "image": "https://i.imgur.com/Xpo8etE.png"
+        }
+]
